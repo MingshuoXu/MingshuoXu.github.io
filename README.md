@@ -1,3 +1,15 @@
+# MingshuoXu.github.io
+
+Here is **Mingshuo Xu (Shawn, 许明烁)**. This is the repository for my personal website.
+
+© 2024 [Mingshuo Xu](https://mingshuoxu.github.io/). Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on [Not Pure Poole](https://github.com/vszhub/not-pure-poole) theme. Source code for this website can be found [here](https://github.com/MingshuoXu/MingshuoXu.github.io).
+
+---
+
+# The README.md about [Not Pure Poole](https://github.com/vszhub/not-pure-poole) listed as follow:
+
+---
+
 # Not Pure Poole <!-- omit in toc -->
 
 <a href="https://jekyll-themes.com">
